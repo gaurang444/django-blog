@@ -1,5 +1,5 @@
 # DjangoGirls-blog
-Assignment Django girls tutorial
+Intern Assignment Django girls tutorial
 Live on https://gaurang44.pythonanywhere.com/
 
 
