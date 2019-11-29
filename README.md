@@ -1,5 +1,6 @@
 # DjangoGirls-blog
-This is an attempt to create Django Girls Blog
+Assignment Django girls tutorial
+Live on https://gaurang44.pythonanywhere.com/
 
 
 ## To run
